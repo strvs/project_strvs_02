@@ -469,10 +469,10 @@ a.contacts-phone-link {text-decoration:none}
 .faq-item.open .faq-text {display:block}
 
 .product-event {padding:53px 0 0 0}
-.product-event-inner {float:left; height:52px; border-radius:52px; background:#f0f3f5}
+.product-event-inner {float:left; height:52px; border-radius:52px; background:#f0f3f5; margin-bottom:30px}
 .product-event-inner .catalogue-icon {float:left; background-position:left -52px; position:static; left:auto; top:auto}
 .product-event-text {float:left; font-weight:600; line-height:52px; padding:0 37px 0 24px}
-.product-photo {min-height:500px; line-height:500px; text-align:center}
+.product-photo {line-height:0; text-align:center}
 .product-photo img {max-width:100%; vertical-align:middle}
 .product-photo img.onlogo {display:none}
 
